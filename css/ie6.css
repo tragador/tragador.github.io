@@ -1,0 +1,22 @@
+body{background-color:#000000;font-size:small;font-family:Helvetica,Arial,sans-serif;color:#FFF;margin:0;padding:0;}
+p{}
+h1{font-size:160%}
+h2{font-size:140%}
+h3{font-size:115%}
+.center {text-align: center;}
+#wrapper{margin-left:auto;margin-right:auto;width:760px;}
+header{background:url("../images/banner.jpg") no-repeat;display:block;margin:0;padding:0;width:760px;height:151px;}
+#mainContent{background:none repeat scroll 0 0 #FFFFFF;padding:1px 26px 2px 26px;text-align:justify;background-color:#000;margin-top:11px;margin-left:auto;margin-right:auto;}
+nav{font-size:120%;font-weight:bold;margin-top:7px;}
+nav ul{margin:0;padding:0;list-style:none;display:inline;}
+nav ul li{margin:0;padding:0;display:inline;text-align:center;list-style:none;}
+nav li a{color:#fff;padding:8px 39px;text-decoration:none;display:inline;}
+nav li a:hover{color:#888;}
+#shareButtons{float:right;margin:7px 6px 0 3px;width:135px;height:20px;}
+a:link{font-weight:bold;text-decoration:none;color:#5583a1;}  
+a:visited{font-weight:bold;text-decoration:none;color:#5583a1;}
+a:hover, a:active{font-weight:bold;text-decoration:underline;}
+.emailLink{position:relative;top:1px;}
+img {border: 0;}
+img.margins {margin:3px 15px 0 0;}
+footer{text-align:center;font-size:90%;font-family:sans-serif;margin-bottom:10px;margin-top:6px;}

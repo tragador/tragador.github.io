@@ -1,0 +1,52 @@
+User-agent: peerbot
+Disallow: /favicon.ico
+
+User-agent: MSIECrawler
+Disallow: /
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: psbot
+Disallow: /
+
+User-agent: NetMechanic
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: sitecheck.internetseer.com
+Disallow: /
+
+User-agent: LinkWalker
+Disallow: /
+
+User-agent: FreeFind
+Disallow: /
+
+User-agent: MondoSearch
+Disallow: /
+
+User-agent: Spiderline
+Disallow: /
+
+User-agent: fusionbot
+Disallow: /
+
+User-agent: WebReaper
+Disallow: /
+
+User-agent: NPBot
+Disallow: /
+
+
+User-agent: *
+Disallow: /contact-form/
+Disallow: /errors/
+Disallow: /cgi-bin/
+Disallow: /images/
+Disallow: /contact.php
+Disallow: /maintenance.html
+
+Sitemap: https://www.chrisbaileypiano.com/sitemap.xml
