@@ -11,7 +11,7 @@ header{background:url("../images/banner.jpg") no-repeat;display:block;margin:0;p
 #topMenu{font-size:120%;font-weight:bold;margin-top:7px;}
 #topMenu ul{margin:0;padding:0;list-style:none;display:inline;}
 #topMenu ul li{margin:0;padding:0;display:inline;text-align:center;list-style:none;}
-#topMenu li a{color:#FFF;padding:8px 53px;text-decoration:none;display:inline;}
+#topMenu li a{color:#FFF;padding:8px 52px;text-decoration:none;display:inline;}
 #topMenu li a:hover{color:#888;}
 #shareButtons{float:right;margin:7px 6px 0 3px;width:127px;height:20px;}
 a:link{font-weight:bold;text-decoration:none;color:#5583a1;}  
